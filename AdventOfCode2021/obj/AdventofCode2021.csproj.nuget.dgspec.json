@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jean-luc.ciapparelli\\source\\repos\\AdventOfCode2021Test\\ConsoleApp1\\AdventofCode2021.csproj": {}
+    "C:\\Users\\jean-luc.ciapparelli\\source\\repos\\AdventOfCode2021Test\\AdventOfCode2021\\AdventofCode2021.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jean-luc.ciapparelli\\source\\repos\\AdventOfCode2021Test\\ConsoleApp1\\AdventofCode2021.csproj": {
+    "C:\\Users\\jean-luc.ciapparelli\\source\\repos\\AdventOfCode2021Test\\AdventOfCode2021\\AdventofCode2021.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jean-luc.ciapparelli\\source\\repos\\AdventOfCode2021Test\\ConsoleApp1\\AdventofCode2021.csproj",
+        "projectUniqueName": "C:\\Users\\jean-luc.ciapparelli\\source\\repos\\AdventOfCode2021Test\\AdventOfCode2021\\AdventofCode2021.csproj",
         "projectName": "AdventofCode2021",
-        "projectPath": "C:\\Users\\jean-luc.ciapparelli\\source\\repos\\AdventOfCode2021Test\\ConsoleApp1\\AdventofCode2021.csproj",
+        "projectPath": "C:\\Users\\jean-luc.ciapparelli\\source\\repos\\AdventOfCode2021Test\\AdventOfCode2021\\AdventofCode2021.csproj",
         "packagesPath": "C:\\Users\\jean-luc.ciapparelli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jean-luc.ciapparelli\\source\\repos\\AdventOfCode2021Test\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\jean-luc.ciapparelli\\source\\repos\\AdventOfCode2021Test\\AdventOfCode2021\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jean-luc.ciapparelli\\AppData\\Roaming\\NuGet\\NuGet.Config",
