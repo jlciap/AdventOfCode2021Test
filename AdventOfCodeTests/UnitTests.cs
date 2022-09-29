@@ -44,14 +44,14 @@ namespace AdventOfCodeTests
 
             var result = day2.SolutionPart1();
 
-            Assert.Equal(1989014, result); 
+            Assert.Equal(1989014, result);
         }
 
         [Fact]
         public void TestDay2SolutionPart2()
         {
             var day2 = new Day2();
-            day2.SetUp(); 
+            day2.SetUp();
 
             var result = day2.SolutionPart2();
 

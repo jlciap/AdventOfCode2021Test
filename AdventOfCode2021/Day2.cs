@@ -1,10 +1,4 @@
-﻿
-
-using System.IO;
-using System.Collections.Generic;
-
-
-namespace AdventOfCode2021
+﻿namespace AdventOfCode2021
 {
     public class Day2
     {
