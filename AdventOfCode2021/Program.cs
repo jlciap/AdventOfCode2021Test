@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AdventOfCode2021
+﻿namespace AdventOfCode2021
 {
     internal class AdventOfCode2021
     {
@@ -40,6 +34,19 @@ namespace AdventOfCode2021
 
             Console.WriteLine($"Answer to Part 1 is {solutionDay3.SolutionPart1()}");
             Console.WriteLine($"Answer to Part2 is {solutionDay3.SolutionPart2()}");
+
+
+
+            Console.WriteLine("-------------------------------------------------------------------");
+            Console.WriteLine(" DAY 4");
+
+            Day4 solutionDay4 = new Day4();
+            solutionDay4.SetUp();
+
+
+            Console.WriteLine($"Answer to Part 1 is {solutionDay4.SolutionPart1()}");
+
+
 
 
 
