@@ -37,6 +37,19 @@
 
 
 
+            Console.WriteLine("-------------------------------------------------------------------");
+            Console.WriteLine(" DAY 4");
+
+            Day4 solutionDay4 = new Day4();
+            solutionDay4.SetUp();
+
+
+            Console.WriteLine($"Answer to Part 1 is {solutionDay4.SolutionPart1()}");
+
+
+
+
+
 
         }
 
