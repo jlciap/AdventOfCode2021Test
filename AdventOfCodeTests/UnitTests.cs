@@ -63,7 +63,7 @@ namespace AdventOfCodeTests
     }
 
 
-    public class AdvenOfCodeDay3
+    public class AdventOfCodeDay3
     {
         [Fact]
 
@@ -88,5 +88,28 @@ namespace AdventOfCodeTests
 
             Assert.Equal(7863147, result);
         }
+
+
+
+
+
+
+    }
+
+
+    public class AdventOfCodeDay4
+    {
+        [Fact]
+
+        public void TestDay4SolutionPart1()
+        {
+            var day4 = new Day4();
+            day4.SetUp();
+
+            var result = day4.SolutionPart1();
+
+            Assert.Equal(54275, result);
+        }
+
     }
 }
